@@ -21,4 +21,4 @@ All information about the course will be posted here.
 
 ## News
 
-* **Aug 27** - Welcome back!
+* **Jan 23** - Welcome back!
