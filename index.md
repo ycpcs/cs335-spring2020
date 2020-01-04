@@ -3,12 +3,20 @@ layout: default
 title: Home page
 ---
 
-# Welcome to CS 335, Spring 2020!
+# CS 335, Spring 2020
 
-This is the website for CS 335, Spring 2019 at York College.
-All information about the course will be posted here.
+<div id="subtitle">Cybersecurity</div>
+
+This is the website for CS 335, Cybersecurity, at York College. All information about the course will be posted here.
 
 ## Links
+
+* [Syllabus](syllabus/index.html)
+* [Schedule/Readings](schedule/index/html)
+* [Assignments](assignments/index.html)
+* <a href="https://seedsecuritylabs.org/Labs_16.04/" target="_blank">SEED Labs</a>
+* [Resources](resources/index.html)
+* [Marmoset (submission server)](https://cs.ycp.edu/marmoset)
 
 <!--
 * [Schedule](schedule/index.html)
@@ -21,4 +29,4 @@ All information about the course will be posted here.
 
 ## News
 
-* **Jan 23** - Welcome back!
+* **Jan 23** &mdash; Welcome back!

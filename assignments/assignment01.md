@@ -21,10 +21,12 @@ Acting lawfully and ethically is your responsibility. Carefully read the Compute
 Cyber Criminals are hunted down by [FBI](https://www.fbi.gov/investigate/cyber), [Secret Service](https://www.secretservice.gov/investigation/#cyber), [DOJ](https://www.justice.gov/criminal-ccips) and many more.
 
 Understand what the law prohibits — you don’t want to end up like:
-- [Albert Gonzalez](https://www.wired.com/2010/03/tjx-sentencing/) gets 20 years for hacking TJX Companies and Heartland Payment Systems
-- [Roman Seleznev](https://www.justice.gov/opa/pr/russian-cyber-criminal-sentenced-14-years-prison-role-organized-cybercrime-ring-responsible) was sentenced to 27 years' imprisonment
-- [Sarah Palin E-mail Prankster](https://www.wired.com/2010/11/palin-hacker-sentenced/) sentenced to 1 Year in Custody
-- [Samy Kamkar](https://www.scmagazine.com/home/security-news/myspace-superworm-creator-sentenced-to-probation-community-service/) sentenced to three years' probation with only one computer and no use of internet, 90 days' community service, and $15,000–$20,000 USD in restitution
+- [Albert Gonzalez](https://www.wired.com/2010/03/tjx-sentencing/) gets 20 years for hacking TJX Companies and Heartland Payment Systems.
+- [Roman Seleznev](https://www.justice.gov/opa/pr/russian-cyber-criminal-sentenced-14-years-prison-role-organized-cybercrime-ring-responsible) was sentenced to 27 years' imprisonment.
+- [Max Butler](https://archives.fbi.gov/archives/pittsburgh/press-releases/2010/pt021210b.htm) Receives 13-Year Prison Sentence for identity theft.
+
+- [Sarah Palin E-mail Prankster](https://www.wired.com/2010/11/palin-hacker-sentenced/) sentenced to 1 Year in Custody.
+- [Samy Kamkar](https://www.scmagazine.com/home/security-news/myspace-superworm-creator-sentenced-to-probation-community-service/) sentenced to three years' probation with only one computer and no use of internet, 90 days' community service, and $15,000–$20,000 USD in restitution.
 
 Please review the college’s policy on [Acceptable Use](https://itkb.ycp.edu/article.php?id=1068) for guidelines concerning proper use of information technology.
 

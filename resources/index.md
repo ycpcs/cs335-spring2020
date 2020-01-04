@@ -51,11 +51,33 @@ Vulnerability Exploitation
 ------------------------------------
 - [Metasploit](https://github.com/rapid7/metasploit-framework) is pretty much the only game in town when you need a generic vulnerability exploitation framework, at least if you don’t want to pay for one.
 - [Scapy](https://scapy.net/) is a network packet generation and manipulation library for Python.
+-[sqlmap](http://sqlmap.org/) allows for easy discovery and exploitation of SQL injection vulnerabilities.
+- [nessus](https://www.tenable.com/products/nessus/nessus-essentials) is a proprietary vulnerability scanner developed by Tenable Network Security.
 
 Network Spoofing
 ------------------------------------
 - [Ettercap](https://www.ettercap-project.org/) is a man-in-the-middle tool designed to
 listen to network traffic between two devices.
+
+Password Crackers
+------------------------------------
+- [Hash Suite](https://hashsuite.openwall.net/) is a Windows program to test security of password hashes.
+- [John the Ripper](https://www.openwall.com/john/) is a fast Open Source password cracker.
+
+Steganography
+------------------------------------
+- [OpenStego](https://www.openstego.com/) can hide any data within a cover file (e.g. images).
+- [Camouflage](http://camouflage.unfiction.com/) allows any file to be hidden within any other file
+
+System Utilities
+------------------------------------
+- [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/) is a suite of more than 70 freeware utilities used to monitor, manage and troubleshoot the Windows operating system.
+
+API Development
+------------------------------------
+- [Postman](https://www.getpostman.com/]) API development environment
+- [Fiddler](https://www.telerik.com/fiddler) is free web debugging proxy for any browser, system or platform.
+- [A RESTful Tutorial](https://www.restapitutorial.com/)
 
 Supplemental Material
 ------------------------------------
