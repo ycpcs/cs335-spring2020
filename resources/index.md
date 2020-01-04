@@ -63,6 +63,7 @@ Password Crackers
 ------------------------------------
 - [Hash Suite](https://hashsuite.openwall.net/) is a Windows program to test security of password hashes.
 - [John the Ripper](https://www.openwall.com/john/) is a fast Open Source password cracker.
+- [RainbowCrack](http://project-rainbowcrack.com/index.htm) crack hashes with rainbow tables.
 
 Steganography
 ------------------------------------
