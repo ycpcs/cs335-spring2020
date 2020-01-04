@@ -2,10 +2,7 @@
 layout: default
 title: Home page
 ---
-
-# CS 335, Spring 2020
-
-<div id="subtitle">Cybersecurity</div>
+# Welcome to CS 335, Spring 2020!
 
 This is the website for CS 335, Cybersecurity, at York College. All information about the course will be posted here.
 
