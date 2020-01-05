@@ -76,7 +76,7 @@ Your overall grade for the course will be determined as follows:
 -   Labs and assignments: 40% (†)
 -   2 Quizzes: 20%
 -   Final project: 20%
--   Research Project: 15%
+-   Cybercrime Research: 15%
 -   Attendance and participation: 5%
 
 (†) You must make a good faith effort to complete all of the labs and assignments in order to pass the course. Failure to complete all labs and assignments is grounds for receiving a reduced or failing grade for the course.
