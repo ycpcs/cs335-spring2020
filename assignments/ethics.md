@@ -24,7 +24,6 @@ Understand what the law prohibits — you don’t want to end up like:
 - [Albert Gonzalez](https://www.wired.com/2010/03/tjx-sentencing/) gets 20 years for hacking TJX Companies and Heartland Payment Systems.
 - [Roman Seleznev](https://www.justice.gov/opa/pr/russian-cyber-criminal-sentenced-14-years-prison-role-organized-cybercrime-ring-responsible) was sentenced to 27 years' imprisonment.
 - [Max Butler](https://archives.fbi.gov/archives/pittsburgh/press-releases/2010/pt021210b.htm) Receives 13-Year Prison Sentence for identity theft.
-
 - [Sarah Palin E-mail Prankster](https://www.wired.com/2010/11/palin-hacker-sentenced/) sentenced to 1 Year in Custody.
 - [Samy Kamkar](https://www.scmagazine.com/home/security-news/myspace-superworm-creator-sentenced-to-probation-community-service/) sentenced to three years' probation with only one computer and no use of internet, 90 days' community service, and $15,000–$20,000 USD in restitution.
 

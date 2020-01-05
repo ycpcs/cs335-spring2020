@@ -11,7 +11,6 @@ This is the website for CS 335, Cybersecurity, at York College. All information 
 * [Syllabus](syllabus/index.html)
 * [Schedule/Readings](schedule/index.html)
 * [Assignments](assignments/index.html)
-* <a href="https://seedsecuritylabs.org/Labs_16.04/" target="_blank">SEED Labs</a>
 * [Resources](resources/index.html)
 * [Marmoset (submission server)](https://cs.ycp.edu/marmoset)
 

@@ -76,7 +76,7 @@ Your overall grade for the course will be determined as follows:
 -   Labs and assignments: 40% (†)
 -   2 Quizzes: 20%
 -   Final project: 20%
--   Cybercrime Research: 15%
+-   Cybercrime history topic: 15%
 -   Attendance and participation: 5%
 
 (†) You must make a good faith effort to complete all of the labs and assignments in order to pass the course. Failure to complete all labs and assignments is grounds for receiving a reduced or failing grade for the course.
@@ -112,6 +112,17 @@ Programs will be graded based on the following criteria:
 > 1: **Below Average.** The program produces mostly incorrect output or shows little attempt at a solution to the problem.
 >
 > 0: **Failure.** The program does not execute.
+
+Final Project
+-----------------
+
+The project will be on a topic of interest not covered in class. The intent of the final project is to provide an opportunity for the student to investigate a particular issue of interest in greater depth. There will be periodic milestones throughout the semester to encourage you to start early and make continuous progress as new material is covered. There will be a final demonstration of your project during the final exam period to highlight all the functionality present.
+
+Cybercrime history topic
+-----------------
+
+The topic will be on a true story from the dark side of the internet.
+The intent is to provide an opportunity for the student to investigate today’s advanced cyber threats. The project will consist of a short written report and an oral presentation. Further details will be provided in class.
 
 Posting and submission of assignments and labs
 -----------------
@@ -191,7 +202,7 @@ If you had an IEP or 504 plan in high school or if you have a disability or heal
 Advice
 -----------------
 
-- Don't wait until the last minute to start projects! The projects can be time-consuming. Pace yourself. Students who procrastinate generally suffer.
+- Don't wait until the last minute to start labs and assignments! They can be time-consuming. Pace yourself. Students who procrastinate generally suffer.
 
 - Ask the questions you have.
 
