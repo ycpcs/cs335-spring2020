@@ -6,7 +6,7 @@ title: "Cybercrime History"
 
 ### Introduction
 
-The topic will be on a true story from the dark side of the internet.
+The topic will be on a true story from the dark side of the internet. If you are presenting a recent attack, make sure you are discussing prevention techniques.  
 
 ### Your Task
 
@@ -18,8 +18,8 @@ The topic will be accompanied by a student led class discussion about the variou
 
 -	Financial fraud crimes (bank fraud, carding, identity theft, extortion)
 - Cyberterrorism and Cyberwarfare
-  - Ukraine power grid cyberattack
-- Dark Web and its precursors
+  - e.g. Ukraine power grid cyberattack
+- Dark Web and\or its precursors
   - Counterfeit Library
   - Carderplanet
   - ShadowCrew  
@@ -27,13 +27,19 @@ The topic will be accompanied by a student led class discussion about the variou
   - Silk Road (marketplace)
 - Spamming and Phishing
 - Online harassments
-- Malicious Software
+- Malicious Software (viruses, warms, trojans, ransomware, adware, spyware)
+  - CryptoLocker
+  - Stuxnet
+  - Conficker
+  - Flashback
 - Reformed Cybercriminals
    - Brett Johnson
    - Kevin Mitnick
    - Kevin Poulsen
    - Michael Calce
    - Robert Tappan Morris
+- Social engineering fraud
+- Zero-day Exploits
 
 ### Submitting
 

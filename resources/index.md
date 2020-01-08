@@ -27,9 +27,9 @@ Development Environment
 Passive Capture
 ------------------------------------
 - [Wireshark](https://www.wireshark.org/) is the most popular tool for passive packet capture and analysis.
-- [Microsoft Message Analyzer](https://docs.microsoft.com/en-us/message-analyzer/microsoft-message-analyzer-operating-guide) is an extensible tool for analyzing network
+- [Microsoft Message Analyzer](https://docs.microsoft.com/en-us/message-analyzer/microsoft-message-analyzer-operating-guide) is an extensible tool for analyzing network.
 traffic on Windows. *Retired on November 25, 2019.*
-- [TCPDump & libpcap](http://www.tcpdump.org/) is a powerful command-line packet analyzer; and libpcap, a portable C/C++ library for network traffic capture, and it's windows implementation [WinPcap](https://www.winpcap.org/)  
+- [TCPDump & libpcap](http://www.tcpdump.org/) is a powerful command-line packet analyzer; and libpcap, a portable C/C++ library for network traffic capture, and it's windows implementation [WinPcap](https://www.winpcap.org/).
 - [netwox](http://www.cis.syr.edu/~wedu/Teaching/cis758/netw522/netwox-doc_html/) is a **netw**ork toolb**ox** for network administrators and network hackers.
 
 Active Capture
@@ -40,8 +40,8 @@ Network Connectivity
 ------------------------------------
 - The [Hping](http://www.hping.org/) tool is similar to the traditional ping utility, but it supports more than just ICMP echo requests.
 - [Netcat](http://netcat.sourceforge.net/) is a command line tool that connects to an arbitrary TCP or UDP port and allows you to send and receive data.
-- If you need to scan the open network interface on a remote system, nothing
-is better than [Nmap](https://nmap.org/).
+- If you need to scan the open network interface on a remote system, nothing is better than [Nmap](https://nmap.org/).
+- _netdiscover_ is a network address discovering tool, install by using `sudo apt-get install netdiscover`.
 
 Web Testing
 ------------------------------------
@@ -51,7 +51,7 @@ Vulnerability Exploitation
 ------------------------------------
 - [Metasploit](https://github.com/rapid7/metasploit-framework) is pretty much the only game in town when you need a generic vulnerability exploitation framework, at least if you don’t want to pay for one.
 - [Scapy](https://scapy.net/) is a network packet generation and manipulation library for Python.
--[sqlmap](http://sqlmap.org/) allows for easy discovery and exploitation of SQL injection vulnerabilities.
+- [sqlmap](http://sqlmap.org/) allows for easy discovery and exploitation of SQL injection vulnerabilities.
 - [nessus](https://www.tenable.com/products/nessus/nessus-essentials) is a proprietary vulnerability scanner developed by Tenable Network Security.
 
 Network Spoofing
@@ -64,11 +64,12 @@ Password Crackers
 - [Hash Suite](https://hashsuite.openwall.net/) is a Windows program to test security of password hashes.
 - [John the Ripper](https://www.openwall.com/john/) is a fast Open Source password cracker.
 - [RainbowCrack](http://project-rainbowcrack.com/index.htm) crack hashes with rainbow tables.
+- [Ophcrack](https://ophcrack.sourceforge.io/) is a free Windows password cracker based on rainbow tables.
 
 Steganography
 ------------------------------------
 - [OpenStego](https://www.openstego.com/) can hide any data within a cover file (e.g. images).
-- [Camouflage](http://camouflage.unfiction.com/) allows any file to be hidden within any other file
+- [Camouflage](http://camouflage.unfiction.com/) allows any file to be hidden within any other file.
 
 System Utilities
 ------------------------------------
@@ -76,9 +77,15 @@ System Utilities
 
 API Development
 ------------------------------------
-- [Postman](https://www.getpostman.com/]) API development environment
+- [Postman](https://www.getpostman.com/]) API development environment.
 - [Fiddler](https://www.telerik.com/fiddler) is free web debugging proxy for any browser, system or platform.
-- [A RESTful Tutorial](https://www.restapitutorial.com/)
+- [A RESTful Tutorial](https://www.restapitutorial.com/).
+
+Forensics
+------------------------------------
+- [Open Source Digital Forensics](https://www.sleuthkit.org/).
+- [OfflineRegistryView](https://www.nirsoft.net/utils/offline_registry_view.html) is a simple tool for Windows that allows you to read offline Registry files from external drive and view the desired Registry key in _.reg_ file format. OfflineRegistryView is by [NirSoft](https://www.nirsoft.net/) which also provides a plethora of other related tools.
+- [sleuthkit.org](https://www.sleuthkit.org/) is the official website for The Sleuth Kit®, Autopsy®, and other open source digital investigation tools.  
 
 Supplemental Material
 ------------------------------------
@@ -87,7 +94,7 @@ Supplemental Material
 -  The [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) was created to provide a concise collection of high value information on specific application security topics.
 - [CWE™](https://cwe.mitre.org/compatible/product.html) is a community-developed list of common software security weaknesses.
 
-Penetration Testing
+Bounty Platform
 -----------------------------------
 - [HackerOne](https://www.hackerone.com/) is a vulnerability coordination and bug bounty platform that connects businesses with cybersecurity researchers.
 
