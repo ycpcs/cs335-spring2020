@@ -10,5 +10,6 @@ This page links to homework and programming assignments.
 > ---------- | ---- | ---
 > [Ethics](ethics.html) Codes & Guidelines | n/a | Jan 28, 2020
 > [Final Project](project.html) Proposal | n/a | April 23, 2020
-> [Final Project](project.html) Code/Report | n/a | May 08, 2020
-> [Final Project](project.html) Demo | n/a | May 13, 2020, 7 &ndash; 9 PM
+> [Cyber Threat](cybercrime.html) Report | n/a | May 05, 2020
+> [Final Project](project.html) Code/Report | n/a | May 07, 2020
+> [Final Project](project.html) Demo | n/a | May 12, 2020, 7&ndash;9 PM
