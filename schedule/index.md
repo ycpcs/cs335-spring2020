@@ -54,7 +54,7 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 15 | Apr 30 | | |
 > | | | |
 > 16 | May 05 | | |
-> 16 | May 07 | Course Wrap Up | |
+> 16 | May 07 | Course Wrap Up | Project Demo |
 > | | | |
 > 17 | May 12 | FINAL EXAM @ 7:00 PM | Project Demo |
 
