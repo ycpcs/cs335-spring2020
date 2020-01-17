@@ -9,7 +9,7 @@ This page provides a tentative schedule for the course.
 CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/dp/1733003924">Computer & Internet Security: A Hands-on Approach</a>. Wenliang Du; 2 edition, 2019, ISBN-13: 978-1733003926
 >  Week    | Date     | Topic        | Readings   | Labs                                  
 > -------- | -------- | ------------ | ---------- | -------------------------------------
-> 1  | Jan 23 | Introduction and Course Philosophy | | [Ethics](../assignments/assignment01.html)
+> 1  | Jan 23 | Introduction and Course Philosophy | | [Ethics](../assignments/ethics.html)
 > | | | |
 > 2 | Jan 28 | VM Setup & Labs Overview | |
 > 2 | Jan 30 | Root Causes for Vulnerability  | |  
