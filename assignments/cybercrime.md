@@ -27,11 +27,12 @@ The topic will be accompanied by a student led class discussion about the variou
   - Silk Road (marketplace)
 - Spamming and Phishing
 - Online harassments
-- Malicious Software (viruses, warms, trojans, ransomware, adware, spyware)
+- Malicious Software (viruses, worms, trojans, ransomware, adware, spyware)
   - CryptoLocker
   - Stuxnet
   - Conficker
   - Flashback
+  - NotPetya
 - Reformed Cybercriminals
    - Brett Johnson
    - Kevin Mitnick
@@ -42,5 +43,8 @@ The topic will be accompanied by a student led class discussion about the variou
 - Zero-day Exploits
 
 ### Submitting
+<u>Slides and report</u>: due **Thursday, May 05<sup>th</sup>** by 11:59 PM
 
-Upload a zip file containing your report to the [Marmoset](https://cs.ycp.edu/marmoset/) server as **project**:
+<u>Presentations</u>: You **must** schedule your presentations throughout the semester. Presentations should be no more than 10 min, including questions.
+
+Upload a zip file containing your slides and report to the [Marmoset](https://cs.ycp.edu/marmoset/) server.

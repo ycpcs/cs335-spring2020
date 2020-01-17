@@ -8,7 +8,9 @@ Proposal: due **Thursday, Apr 23<sup>th</sup>** by 11:59 PM
 
 Code and report: due **Thursday, May 07<sup>th</sup>** by 11:59 PM
 
-Presentations: **Tuesday, May 12<sup>th</sup>, 7&ndash;9 PM**
+Presentations:
+-  **Thursday, May 07<sup>th</sup>, 6:00 &ndash; 7:15 PM**
+-  **Tuesday, May 12<sup>th</sup>, 7:00 &ndash; 9:00 PM**
 
 ### Introduction
 

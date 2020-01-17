@@ -12,9 +12,9 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 1  | Jan 23 | Introduction and Course Philosophy | | [Ethics](../assignments/ethics.html)
 > | | | |
 > 2 | Jan 28 | VM Setup & Labs Overview | |
-> 2 | Jan 30 | Root Causes for Vulnerability  | |  
+> 2 | Jan 30 | Root Causes for Vulnerability | |  
 > | | | |
-> 3 | Feb 04 | Reverse Shell | CIS: Ch 9 |
+> 3 | Feb 04 | [Reverse Shell](../slides\09_Reverse_Shell.pdf) | CIS: Ch 9 |
 > 3 | Feb 06 | | |  
 > | | | |
 > 4 | Feb 11 | Buffer Overflow Attack | CIS: Ch 4 | Buffer Overflow
@@ -47,13 +47,13 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 13 | Apr 14 | | |  Password Cracking
 > 13 | Apr 16 | | |
 > | | | |
-> 14 | Apr 21 | | |
+> 14 | Apr 21 | Public-Key Infrastructure (PKI) | CIS: Ch 24 | Public-Key Infrastructure Lab
 > 14 | Apr 23 | | |
 > | | | |
 > 15 | Apr 28 | Quiz 2 | |
 > 15 | Apr 30 | | |
 > | | | |
-> 16 | May 05 | | |
+> 16 | May 05 | Guest Speaker | |
 > 16 | May 07 | Course Wrap Up | Project Demo |
 > | | | |
 > 17 | May 12 | FINAL EXAM @ 7:00 PM | Project Demo |
