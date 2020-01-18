@@ -45,6 +45,6 @@ The topic will be accompanied by a student led class discussion about the variou
 ### Submitting
 <u>Slides and report</u>: due **Thursday, May 05<sup>th</sup>** by 11:59 PM
 
-<u>Presentations</u>: You **must** schedule your presentations throughout the semester. Presentations should be no more than 10 min, including questions.
+<u>Presentations</u>: You **must** schedule your presentations throughout the semester (except the last 2 class periods). Presentations should be no more than 10 min, including questions.
 
 Upload a zip file containing your slides and report to the [Marmoset](https://cs.ycp.edu/marmoset/) server.
