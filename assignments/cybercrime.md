@@ -1,7 +1,7 @@
 ---
 layout: default
 course_number: CS335
-title: "Cybercrime History"
+title: "Cybersecurity history study "
 ---
 
 ### Introduction

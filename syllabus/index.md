@@ -76,7 +76,7 @@ Your overall grade for the course will be determined as follows:
 -   Labs and assignments: 40% (†)
 -   2 Quizzes: 20%
 -   Final project: 25%
--   Cybercrime history topic: 10%
+-   Cybersecurity history study: 10%
 -   Attendance and participation: 5%
 
 (†) You must make a good faith effort to complete all of the labs and assignments in order to pass the course. Failure to complete all labs and assignments is grounds for receiving a reduced or failing grade for the course.
@@ -118,7 +118,7 @@ Final Project
 
 The project will be on a topic of interest not covered in class. The intent of the final project is to provide an opportunity for the student to investigate a particular issue of interest in greater depth. There will be periodic milestones throughout the semester to encourage you to start early and make continuous progress as new material is covered. There will be a final demonstration of your project during the final exam period to highlight all the functionality present.
 
-Cybercrime history topic
+Cybersecurity history study
 -----------------
 
 The topic will be on a true story from the dark side of the internet.
