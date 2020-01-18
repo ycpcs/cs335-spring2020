@@ -26,6 +26,8 @@ The topic will be accompanied by a student led class discussion about the variou
   - AlphaBay
   - Silk Road (marketplace)
 - Spamming and Phishing
+- Human Rights (Free Justina!)
+  - Martin Gottesfeld *
 - Online harassments
 - Malicious Software (viruses, worms, trojans, ransomware, adware, spyware)
   - CryptoLocker
@@ -33,6 +35,7 @@ The topic will be accompanied by a student led class discussion about the variou
   - Conficker
   - Flashback
   - NotPetya
+  - Triton
 - Reformed Cybercriminals
    - Brett Johnson
    - Kevin Mitnick
@@ -41,6 +44,8 @@ The topic will be accompanied by a student led class discussion about the variou
    - Robert Tappan Morris
 - Social engineering fraud
 - Zero-day Exploits
+
+* Anonymous and activists often cross paths.
 
 ### Submitting
 <u>Slides and report</u>: due **Thursday, May 05<sup>th</sup>** by 11:59 PM
