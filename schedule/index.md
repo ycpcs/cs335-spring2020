@@ -12,7 +12,7 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 1  | Jan 23 | Introduction and Course Philosophy | | [Ethics](../assignments/ethics.html)
 > | | | |
 > 2 | Jan 28 | VM Setup & Labs Overview | |
-> 2 | Jan 30 | Root Causes for Vulnerability | |  
+> 2 | Jan 30 | [Root Causes for Vulnerability](../slides/01_Reason_Vulnerability.pdf) | |  
 > | | | |
 > 3 | Feb 04 | [Reverse Shell](../slides\09_Reverse_Shell.pdf) | CIS: Ch 9 |
 > 3 | Feb 06 | | |  
