@@ -52,6 +52,9 @@ Cheat Sheets
   - ```su``` temporarily become the superuser.
 
 #### File and Directory
+- ```cd``` go to _$HOME_ directory.
+- ```cd ...``` go one level up the directory tree.
+- ```cd /etc``` to change to the _/etc_ directory.  
 - ```ls``` list all files.
   - Use the ```-al``` argument to view details.
 - ```pwd``` lists the present working directory.
