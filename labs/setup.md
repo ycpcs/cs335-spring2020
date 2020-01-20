@@ -79,8 +79,8 @@ Cheat Sheets
   - ```-``` regular file
   - ```d``` directory
 - Examples
-  - file _desktop.ini_ : ```-rwxrwxrwx 1 seed seed 282 Dec 27 10:10 desktop.ini```
-  - directory _host_ ```drwxrwxrwx 1 seed seed 4096 Jan 20 13:22 host```
+  - file _desktop.ini_: ```-rwxrwxrwx 1 seed seed 282 Dec 27 10:10 desktop.ini```
+  - directory _host_: ```drwxrwxrwx 1 seed seed 4096 Jan 20 13:22 host```
 
   Number | Permission Type | Symbol |
   -------|-----------------|--------|
