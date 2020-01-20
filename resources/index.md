@@ -6,18 +6,6 @@ title: Resources
 
 This page contains links to useful resources.
 
-Lab Setup  
------------------------------------
-- Hands-on [Labs](http://www.cis.syr.edu/~wedu/seed/Labs_16.04/) for Security Education.
-
-- [VirtualBox](https://www.virtualbox.org/wiki/Downloads) is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use.
-
--  Pre-built Virtual Machine [SEED Ubuntu 16.04 VM](https://drive.google.com/file/d/12l8OO3PXHjUsf9vfjkAf7-I6bsixvMUa/view?usp=sharing).
-
-- [User Manual](http://www.cis.syr.edu/~wedu/seed/Documentation/Ubuntu16_04_VM/Ubuntu16_04_VM_Manual.pdf) includes the account and password information, list of software and servers installed, and configuration.
-
-- Follow [Run SEED VM on VirtualBox](http://www.cis.syr.edu/~wedu/seed/Labs_16.04/Documents/SEEDVM_VirtualBoxManual.pdf) to load the image into VirtualBox.
-
 Development Environment
 ------------------------------------
 - Microsoft  [Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment from Microsoft. It is used to develop computer programs, as well as websites, web apps, web services and mobile apps.
