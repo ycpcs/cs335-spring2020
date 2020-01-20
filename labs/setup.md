@@ -92,7 +92,7 @@ Cheat Sheets
   5	     | Read + Execute	 | r-x
   6	     | Read +Write  	 | rw-
   7	     | Read + Write +Execute	| rwx
-- Permission Example  
+- Permission Examples  
   - ```chmod 777 filename```: _rwx rwx rwx_
   - ```chmod 775 filename```: _rwx rwx r-x_
   - ```chmod 755 filename```: _rwx r-x r-x_
