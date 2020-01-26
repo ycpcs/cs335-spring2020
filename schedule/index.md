@@ -9,15 +9,15 @@ This page provides a tentative schedule for the course.
 CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/dp/1733003924">Computer & Internet Security: A Hands-on Approach</a>. Wenliang Du; 2 edition, 2019, ISBN-13: 978-1733003926
 >  Week    | Date     | Topic        | Readings   | Labs                                  
 > -------- | -------- | ------------ | ---------- | -------------------------------------
-> 1  | Jan 23 | Introduction and Course Philosophy | | [Ethics](../assignments/ethics.html)
+> 1  | Jan 23 | Introduction and Course Philosophy, VM Setup | | [Ethics](../assignments/ethics.html)
 > | | | |
-> 2 | Jan 28 | VM Setup & Labs Overview | |
-> 2 | Jan 30 | [Root Causes for Vulnerability](../slides/01_Reason_Vulnerability.pdf) | |  
+> 2 | Jan 28 | [Root Causes for Vulnerability](../slides/01_Reason_Vulnerability.pdf) | |
+> 2 | Jan 30 | | |  
 > | | | |
-> 3 | Feb 04 | [Reverse Shell](../slides\09_Reverse_Shell.pdf) | CIS: Ch 9 |
+> 3 | Feb 04 | [Reverse Shell](../slides/09_Reverse_Shell.pdf) | CIS: Ch 9 |
 > 3 | Feb 06 | | |  
 > | | | |
-> 4 | Feb 11 | Buffer Overflow Attack | CIS: Ch 4 | Buffer Overflow
+> 4 | Feb 11 | [Buffer Overflow Attack](../slides/04_Buffer_Overflow.pdf) | CIS: Ch 4 | Buffer Overflow
 > 4 | Feb 13 | | |
 > | | | |
 > 5 | Feb 18 | Network Tools | | Network Foot Printing
