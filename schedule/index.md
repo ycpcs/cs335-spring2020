@@ -15,7 +15,7 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 2 | Jan 30 | [Reverse Shell](../slides/09_Reverse_Shell.pdf)| CIS: Ch 9 | |  
 > | | | |
 > 3 | Feb 04 | [Shellshock Attack](../slides/03_Shellshock.pdf) | CIS: Ch 3 | [Shellshock Attack Lab](../labs/shellshock.html)
-> 3 | Feb 06 | | |  
+> 3 | Feb 06 | In class lab - Shellshock Attack | CIS: Ch 3|  
 > | | | |
 > 4 | Feb 11 | [Buffer Overflow Attack](../slides/04_Buffer_Overflow.pdf) | CIS: Ch 4 | Buffer Overflow
 > 4 | Feb 13 | | |
