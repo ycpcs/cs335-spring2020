@@ -1,4 +1,4 @@
-gcc -DBUF_SIZE=108 -o stack -z execstack -fno-stack-protector stack.c 
+gcc -DBUF_SIZE=108 -o stack -z execstack -fno-stack-protector stack.c
 sudo chown root stack
 sudo chmod 4755 stack
-ll
+/bin/ls -l
