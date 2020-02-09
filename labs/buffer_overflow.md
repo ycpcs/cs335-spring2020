@@ -16,6 +16,7 @@ The **BUF SIZE** value for this lab is: **108**.
 Additional information on the SEED project [site](http://www.cis.syr.edu/~wedu/seed/Labs_16.04/Software/Buffer_Overflow/).
 
 ### Source Files
+- Shell to setup your stack.c: [build_stack.sh](buffer/build_stack.sh)
 - Launching shell: [call_shellcode.c](buffer/call_shellcode.c)
 - Malicious file: [exploit.c](buffer/exploit.c)
 - Vulnerable program: [stack.c](buffer/stack.c)
