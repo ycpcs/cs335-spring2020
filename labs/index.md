@@ -10,3 +10,4 @@ This page links to lab assignments.
 > ---------- | ---- | ---
 > Lab Setup | [Setup](setup.html) | n/a
 > Shellshock Attack Lab | [Description and Tasks](shellshock.html) | Feb 16
+> Buffer Overflow Attack Lab | [Description and Tasks](buffer_overflow.html) | Feb 23
