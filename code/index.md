@@ -21,3 +21,7 @@ Shell Shock
 - Attack on Set-UID: [vul.c](shell_shock\vul.c)
 - Vulnerable Bash program: [variables.c](shell_shock\variables.c)
 - Attack on CGI program: [test.cgi](shell_shock\test.cgi)
+
+Buffer Overflow
+------------------------------------
+- Memory Layout: [mem_layout.cpp](buffer_overflow\mem_layout.cpp)
