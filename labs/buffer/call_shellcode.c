@@ -1,8 +1,8 @@
 /* call_shellcode.c  */
 
-/*A program that creates a file containing code for launching shell*/
 #include <stdlib.h>
 #include <stdio.h>
+#include <string.h>
 
 const char code[] =
   "\x31\xc0"             /* xorl    %eax,%eax              */
@@ -23,4 +23,4 @@ int main(int argc, char **argv)
    char buf[sizeof(code)];
    strcpy(buf, code);
    ((void(*)( ))buf)( );
-} 
+}
