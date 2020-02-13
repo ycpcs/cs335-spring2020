@@ -17,10 +17,13 @@ Additional information on the SEED project [site](http://www.cis.syr.edu/~wedu/s
 
 ### Source Files
 - Shell to setup stack.c: [build_stack.sh](buffer/build_stack.sh)
+
 - Launching shell: [call_shellcode.c](buffer/call_shellcode.c)
 - Malicious file: [exploit.c](buffer/exploit.c)
 - Vulnerable program: [stack.c](buffer/stack.c)
+
 - Print *esp*: [sp.c](buffer/sp.c)
+- [shellcode.c](shellcode.c)
 - [dash_shell_test.c](buffer/dash_shell_test.c)
 
 ### Tips
