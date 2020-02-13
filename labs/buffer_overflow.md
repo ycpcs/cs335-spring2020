@@ -23,7 +23,7 @@ Additional information on the SEED project [site](http://www.cis.syr.edu/~wedu/s
 - Vulnerable program: [stack.c](buffer/stack.c)
 
 - Print *esp*: [sp.c](buffer/sp.c)
-- [shellcode.c](shellcode.c)
+- [shellcode.c](buffer/shellcode.c)
 - [dash_shell_test.c](buffer/dash_shell_test.c)
 
 ### Tips
