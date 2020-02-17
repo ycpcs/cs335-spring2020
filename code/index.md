@@ -25,3 +25,10 @@ Shell Shock
 Buffer Overflow
 ------------------------------------
 - Memory Layout: [mem_layout.cpp](buffer_overflow\mem_layout.cpp)
+
+Packet Sniffing and Spoofing
+------------------------------------
+- UDP server: [udp_server.c](sniff\udp_server.c)
+- Packet Sniffing (raw): [sniff_raw.c](sniff\sniff_raw.c)
+- Packet Sniffing (pcap): [sniff_pcap.c](\sniff\sniff_pcap.c)
+- Packet Sniffing (ether): [sniff_ether.c](sniff\sniff_ether.c)
