@@ -37,3 +37,5 @@ Packet Sniffing and Spoofing
 - Calculating Checksum: [checksum.h](sniff\checksum.c)
 - Send Raw Packets: [spoof.c](sniff\spoof.c)
 - Spoof ICMP: [spoof_icmp.c](sniff\spoof_icmp.c)
+- Spoof UDP: [spoof_udp.c](sniff\spoof_udp.c)
+- Spoof TCP: [spoof_tcp.c](sniff\spoof_tcp.c)
