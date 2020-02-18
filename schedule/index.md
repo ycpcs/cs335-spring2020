@@ -20,7 +20,7 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 4 | Feb 11 | [Stack Layout](../slides/04_Buffer_Overflow.pdf) | CIS: Ch 4 | [Buffer Overflow](../labs/buffer_overflow.html)
 > 4 | Feb 13 | [Buffer Overflow Attack](../slides/04_Buffer_Overflow.pdf) | CIS: Ch 4 |
 > | | | |
-> 5 | Feb 18 | [Packet Sniffing](..slides\15_Packet_Sniffing_Spoofing.pdf) | CIS: Ch 15 | [Packet sniffing and spoofing](../labs/sniff_spoof.html)
+> 5 | Feb 18 | [Packet Sniffing](../slides\15_Packet_Sniffing_Spoofing.pdf) | CIS: Ch 15 | [Packet sniffing and spoofing](../labs/sniff_spoof.html)
 > 5 | Feb 20 | Packet Spoofing  | CIS: Ch 15 |
 > | | | |
 > 6 | Feb 25 | ARP & TCP | | ARP spoofing
