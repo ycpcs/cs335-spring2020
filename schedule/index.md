@@ -20,8 +20,8 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 4 | Feb 11 | [Stack Layout](../slides/04_Buffer_Overflow.pdf) | CIS: Ch 4 | [Buffer Overflow](../labs/buffer_overflow.html)
 > 4 | Feb 13 | [Buffer Overflow Attack](../slides/04_Buffer_Overflow.pdf) | CIS: Ch 4 |
 > | | | |
-> 5 | Feb 18 | Network Tools | | Network Foot Printing
-> 5 | Feb 20 | Packet Sniffing and Spoofing  | CIS: Ch 15 | Packet sniffing and spoofing
+> 5 | Feb 18 | [Packet Sniffing](..slides\15_Packet_Sniffing_Spoofing.pdf) | CIS: Ch 15 | [Packet sniffing and spoofing](../labs/sniff_spoof.html)
+> 5 | Feb 20 | Packet Spoofing  | CIS: Ch 15 |
 > | | | |
 > 6 | Feb 25 | ARP & TCP | | ARP spoofing
 > 6 | Feb 27 | Attacks on TCP Protocol | CIS: Ch 16 | TCP/IP Attack Lab
@@ -30,7 +30,7 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 7 | Mar 05 | <b>NO CLASS - Winter Vacation</b> | |
 > | | | |
 > 8 | Mar 10 | DNS Attacks | CIS: Ch 18 | Local DNS Attack Lab
-> 8 | Mar 12 | | |
+> 8 | Mar 12 | Network Tools | | Network Foot Printing
 > | | | |
 > 9 | Mar 17 | Quiz 1 | |
 > 9 | Mar 19 | Web Browser Security | |

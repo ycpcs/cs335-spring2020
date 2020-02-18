@@ -20,6 +20,7 @@ This is the website for CS 335, Cybersecurity, at York College. All information 
 
 ## News
 
+* **Mar 01** &mdash; [Packet Sniffing and Spoofing](labs/sniff_spoof.html) Lab Due
 * **Feb 23** &mdash; [Buffer Overflow](labs/buffer_overflow.html) Attack Lab Due
 * **Feb 16** &mdash; [Shellshock](labs/shellshock.html) Attack Lab Due
 * **Jan 28** &mdash; [Ethics](assignments/ethics.html) Due
