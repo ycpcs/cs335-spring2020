@@ -1,4 +1,4 @@
-/* Recieving packets using sockets */
+/* Receiving packets using sockets */
 
 #include <unistd.h>
 #include <stdio.h>

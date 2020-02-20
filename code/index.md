@@ -28,14 +28,22 @@ Buffer Overflow
 
 Packet Sniffing and Spoofing
 ------------------------------------
-- UDP server: [udp_server.c](sniff\udp_server.c)
-- UDP client: [udp_client.c](sniff\udp_client.c)
-- Packet Sniffing (raw): [sniff_raw.c](sniff\sniff_raw.c)
-- Packet Sniffing (pcap): [sniff_pcap.c](\sniff\sniff_pcap.c)
-- Packet Sniffing (ether): [sniff_ether.c](sniff\sniff_ether.c)
-- Header Structures: [ip.h](sniff\ip.h)
-- Calculating Checksum: [checksum.h](sniff\checksum.c)
-- Send Raw Packets: [spoof.c](sniff\spoof.c)
-- Spoof ICMP: [spoof_icmp.c](sniff\spoof_icmp.c)
-- Spoof UDP: [spoof_udp.c](sniff\spoof_udp.c)
-- Spoof TCP: [spoof_tcp.c](sniff\spoof_tcp.c)
+- Sniffing
+  - Packet Sniffing using raw sockets: [sniff_raw.c](sniff\sniff_raw.c)
+  - Packet Sniffing using pcap API: [sniff_pcap.c](\sniff\sniff_pcap.c)
+  - Packet Sniffing using pcap API (ether): [sniff_ether.c](sniff\sniff_ether.c)
+  - Send Raw Packets (method only): [spoof.c](sniff\spoof.c)
+  - Sniff using Scapy: [sniff.py](sniff\sniff.py)
+- Spoofing
+  - Spoof ICMP using raw sockets: [spoof_icmp.c](sniff\spoof_icmp.c)
+  - Spoof UDP using raw sockets: [spoof_udp.c](sniff\spoof_udp.c)
+  - Spoof TCP using raw sockets: [spoof_tcp.c](sniff\spoof_tcp.c)
+  - Spoof UDP using Scapy: [spoof_udp.py)](sniff\spoof_udp.py)
+  - Spoof ICMP using Scapy: [spoof_icmp.py](sniff\spoof_icmp.py)
+- Misc
+  - UDP client: [udp_client.c](sniff\udp_client.c)
+  - UDP server: [udp_server.c](sniff\udp_server.c)
+  - TCP/IP Header Structures: [ip.h](sniff\ip.h)
+  - Calculating Checksum: [checksum.h](sniff\checksum.c)
+  - Create packet using Scapy: [create_udp_packet.py](sniff\create_udp_packet.py)
+  - Send created packet using raw sockets: [send_udp_packet.c](sniff\send_udp_packet.c)
