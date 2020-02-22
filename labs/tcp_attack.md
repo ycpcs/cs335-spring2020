@@ -1,23 +1,20 @@
 ---
 layout: default
 course_number: CS335
-title: Lab - Packet Sniffing and Spoofing
+title: Lab - TCP Attack Lab
 ---
 
-# Lab - Packet Sniffing and Spoofing Lab
+# Lab - TCP Attack Lab
 
 ### Lab Description and Tasks
 
-[Sniffing & Spoofing.pdf](Sniffing_Spoofing.pdf)
+[TCP Attack.pdf](TCP_Attacks.pdf)
 
-Additional information on the SEED project [site](https://seedsecuritylabs.org/Labs_16.04/Networking/Sniffing_Spoofing/).
+Additional information on the SEED project [site](https://seedsecuritylabs.org/Labs_16.04/Networking/TCP_Attacks/).
 
 Scapy and pcap API references can be found in the [Resources](../resources/index.html) page.
 
-### Source Files
-
-See [code snippets](../code/index.html) used in lecture.
-
+### Additional Tasks
 
 ### Grading
 

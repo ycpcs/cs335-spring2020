@@ -23,8 +23,8 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 5 | Feb 18 | [Packet Sniffing](../slides\15_Packet_Sniffing_Spoofing.pdf) | CIS: Ch 15 | [Packet sniffing and spoofing](../labs/sniff_spoof.html)
 > 5 | Feb 20 | Packet Spoofing  | CIS: Ch 15 |
 > | | | |
-> 6 | Feb 25 | ARP & TCP | | ARP spoofing
-> 6 | Feb 27 | Attacks on TCP Protocol | CIS: Ch 16 | TCP/IP Attack Lab
+> 6 | Feb 25 | [Attacks on TCP Protocol](../slides/16_TCP_Attack.pdf) | CIS: Ch 16 | TCP/IP Attack Lab
+> 6 | Feb 27 | ARP & TCP | | ARP spoofing
 > | | | |
 > 7 | Mar 03 | <b>NO CLASS - Winter Vacation</b> | |
 > 7 | Mar 05 | <b>NO CLASS - Winter Vacation</b> | |

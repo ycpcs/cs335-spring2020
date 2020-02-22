@@ -12,21 +12,24 @@ The **BUF SIZE** value for this lab is: **108**.
 
 [Buffer Overflow.pdf](Buffer_Overflow.pdf)
 
-
 Additional information on the SEED project [site](http://www.cis.syr.edu/~wedu/seed/Labs_16.04/Software/Buffer_Overflow/).
 
 ### Source Files
-- Shell to setup stack.c: [build_stack.sh](buffer/build_stack.sh)
 
-- Launching shell: [call_shellcode.c](buffer/call_shellcode.c)
-- Malicious file: [exploit.c](buffer/exploit.c)
-- Vulnerable program: [stack.c](buffer/stack.c)
+- Lab Files
+  - Build Malicious file: [exploit.c](buffer/exploit.c)
+  - Vulnerable program: [stack.c](buffer/stack.c)
+  - Defeat Randomization: [defeat_rand.sh](buffer\defeat_rand.sh)
+  - Helper Shell to build and setup stack.c: [build_stack.sh](buffer/build_stack.sh)
 
-- Print *esp*: [sp.c](buffer/sp.c)
-- [shellcode.c](buffer/shellcode.c)
-- [dash_shell_test.c](buffer/dash_shell_test.c)
+- Examples  
+  - Launching shell: [call_shellcode.c](buffer/call_shellcode.c)
+  - Print *esp*: [sp.c](buffer/sp.c)
+  - Shellcode in stack: [shellcode.c](buffer/shellcode.c) (compile with ```-z execstack```)
+  - Defeat dash test: [dash_shell_test.c](buffer/dash_shell_test.c)
 
 ### Tips
+
  - To turn off address randomization: ```$ sudo sysctl -w kernel.randomize_va_space=0```
  - Check the current randomization status: ```$ sudo sysctl kernel.randomize_va_space```
  - If you forget to turn off the non-executable stack protection ``` -z execstack``` you will get a *Segmentation fault*
@@ -41,6 +44,7 @@ Additional information on the SEED project [site](http://www.cis.syr.edu/~wedu/s
      - You can exit gdb debugging session by typing ```quit```
 
  - ```touch badfile``` will create an empty ```badfile```
+
 ### Grading
 
 Post your report in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due date in the syllabus. Your grade for this lab will be composed of:
