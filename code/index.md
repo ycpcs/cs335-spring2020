@@ -6,25 +6,10 @@ title: Code
 
 This page contains links to useful code snippets.
 
-Reverse Shell
+TCP
 ------------------------------------
-- File Descriptors: [fd.c](reverse_shell\fd.c)
-- Redirection (demo): [red.c](reverse_shell\red.c)
-- Redirection (dup): [dup.c](reverse_shell\dup.c)
-- Redirection (dup2): [dup2.c](reverse_shell\dup2.c)
-- Redirection (tcp): [tcp_out.c](reverse_shell\tcp_out.c)
-- Redirection (tcp): [tcp_in.c](reverse_shell\tcp_in.c)
-
-
-Shell Shock
-------------------------------------
-- Attack on Set-UID: [vul.c](shell_shock\vul.c)
-- Vulnerable Bash program: [variables.c](shell_shock\variables.c)
-- Attack on CGI program: [test.cgi](shell_shock\test.cgi)
-
-Buffer Overflow
-------------------------------------
-- Memory Layout: [mem_layout.cpp](buffer_overflow\mem_layout.cpp)
+- Client: [tcp_client.c](tcp\tcp_client.c)
+- Server: [tcp_server.c](tcp\tcp_server.c) & [tcp_server_multi.c](tcp\tcp_server_multi.c)
 
 Packet Sniffing and Spoofing
 ------------------------------------
@@ -45,7 +30,26 @@ Packet Sniffing and Spoofing
   - UDP server: [udp_server.c](sniff\udp_server.c)
   - TCP/IP Header Structures: [ip.h](sniff\ip.h)
   - Calculating Checksum: [checksum.h](sniff\checksum.c)
--Sniffing along with Spoofing
+- Sniffing along with Spoofing
   - Create packet using Scapy: [create_udp_packet.py](sniff\create_udp_packet.py)
   - Send created packet using raw sockets: [send_udp_packet.c](sniff\send_udp_packet.c)
   - Sniffing and the Spoofing ICMP using Scapy: [sniff_snoop_icmp.py](sniff\sniff_snoop_icmp.py)
+
+Buffer Overflow
+------------------------------------
+- Memory Layout: [mem_layout.cpp](buffer_overflow\mem_layout.cpp)
+
+Shell Shock
+------------------------------------
+- Attack on Set-UID: [vul.c](shell_shock\vul.c)
+- Vulnerable Bash program: [variables.c](shell_shock\variables.c)
+- Attack on CGI program: [test.cgi](shell_shock\test.cgi)
+
+Reverse Shell
+------------------------------------
+- File Descriptors: [fd.c](reverse_shell\fd.c)
+- Redirection (demo): [red.c](reverse_shell\red.c)
+- Redirection (dup): [dup.c](reverse_shell\dup.c)
+- Redirection (dup2): [dup2.c](reverse_shell\dup2.c)
+- Redirection (tcp): [tcp_out.c](reverse_shell\tcp_out.c)
+- Redirection (tcp): [tcp_in.c](reverse_shell\tcp_in.c)
