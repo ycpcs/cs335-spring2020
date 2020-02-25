@@ -31,7 +31,7 @@ void main() {
 	/* Step 4: Accept a connection request */
 	int client_sock = accept(sock, (struct sockaddr *)&client, &client_len);
 
-	/* Step 5: Recieve the data */
+	/* Step 5: Receive the data */
 	int buf_len = sizeof(buf);
 	bzero(buf, buf_len);
 
