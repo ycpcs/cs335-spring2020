@@ -12,9 +12,7 @@ title: Lab - TCP Attack Lab
 
 Additional information on the SEED project [site](https://seedsecuritylabs.org/Labs_16.04/Networking/TCP_Attacks/).
 
-Scapy and pcap API references can be found in the [Resources](../resources/index.html) page.
-
-### Additional Tasks
+Scapy and netwox references can be found in the [Resources](../resources/index.html) page.
 
 ### Grading
 
