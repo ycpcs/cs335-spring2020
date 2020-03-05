@@ -20,16 +20,16 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 4 | Feb 11 | [Stack Layout](../slides/04_Buffer_Overflow.pdf) | CIS: Ch 4 | [Buffer Overflow](../labs/buffer_overflow.html)
 > 4 | Feb 13 | [Buffer Overflow Attack](../slides/04_Buffer_Overflow.pdf) | CIS: Ch 4 |
 > | | | |
-> 5 | Feb 18 | [Packet Sniffing](../slides\15_Packet_Sniffing_Spoofing.pdf) | CIS: Ch 15 | [Packet sniffing and spoofing](../labs/sniff_spoof.html)
+> 5 | Feb 18 | [Packet Sniffing](../slides/15_Packet_Sniffing_Spoofing.pdf) | CIS: Ch 15 | [Packet sniffing and spoofing](../labs/sniff_spoof.html)
 > 5 | Feb 20 | Packet Spoofing  | CIS: Ch 15 |
 > | | | |
 > 6 | Feb 25 | [Attacks on TCP Protocol](../slides/16_TCP_Attack.pdf) | CIS: Ch 16 | [TCP/IP Attack Lab](../labs/tcp_attack.html)
-> 6 | Feb 27 | TCP Session Hijacking | | 
+> 6 | Feb 27 | TCP Session Hijacking | |
 > | | | |
 > 7 | Mar 03 | <b>NO CLASS - Winter Vacation</b> | |
 > 7 | Mar 05 | <b>NO CLASS - Winter Vacation</b> | |
 > | | | |
-> 8 | Mar 10 | DNS Attacks | CIS: Ch 18 | Local DNS Attack Lab
+> 8 | Mar 10 | [DNS Attacks](../slides/18_DNS_Attacks.pdf) | CIS: Ch 18 | Local DNS Attack Lab
 > 8 | Mar 12 | Network Tools | | Network Foot Printing
 > | | | |
 > 9 | Mar 17 | Quiz 1 | |
