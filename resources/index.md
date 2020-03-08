@@ -92,5 +92,12 @@ Bounty Platform
 -----------------------------------
 - [HackerOne](https://www.hackerone.com/) is a vulnerability coordination and bug bounty platform that connects businesses with cybersecurity researchers.
 
+Penetration Testing Platforms
+-----------------------------------
+- [Hack The Box](https://www.hackthebox.eu/) is an online platform to test and advance your skills in penetration testing and cyber security.
+- [Vulnhub](https://www.vulnhub.com/)provide materials that allows anyone to gain practical 'hands-on' experience in digital security.
+- [Hack This Site](https://www.hackthissite.org/) is a legal free training ground for users to test and expand their hacking skills.
+- The [wargames](https://overthewire.org/wargames/) offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.
+
 Technical Documentation
 -----------------------------------

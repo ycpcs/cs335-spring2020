@@ -13,3 +13,4 @@ This page links to lab assignments.
 > Buffer Overflow Attack Lab | [Description and Tasks](buffer_overflow.html) | Feb 23
 > Packet Sniffing and Spoofing | [Description and Tasks](sniff_spoof.html) | Mar 01
 > TCP Attack | [Description and Tasks](tcp_attack.html) | Mar 15
+> Local DNS Attack | [Description and Tasks](dns_attack.html) | Mar 20

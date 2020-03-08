@@ -12,12 +12,14 @@ title: Lab - Local DNS Attack
 
 Additional information on the SEED project [site](https://seedsecuritylabs.org/Labs_16.04/Networking/DNS_Local/).
 
-- Zone file for domain example.com: [/var/cache/bind/example.com.db](local_dns\example.com.db)
-- Zone file for DNS reverse lookup: [/var/cache/bind/192.168.0](local_dns\192.168.0)
+- __Example__ files (* you may need to alter them for this lab)
+  - Zone file for domain cs335.com: [/var/cache/bind/cs335.com.db](../code/dns/cs335.com.db)
+  - Zone file for DNS reverse lookup: [/var/cache/bind/191.168.0](../code/dns/191.168.0)
 
 _netwib_ and _netwox_ references can be found in the [Resources](../resources/index.html) page.
 
 ### Additional Tasks
+- You must provide a screenshot of the network traffic with each attack.
 
 ### Grading
 

@@ -29,7 +29,7 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 7 | Mar 03 | <b>NO CLASS - Winter Vacation</b> | |
 > 7 | Mar 05 | <b>NO CLASS - Winter Vacation</b> | |
 > | | | |
-> 8 | Mar 10 | [DNS Attacks](../slides/18_DNS_Attacks.pdf) | CIS: Ch 18 | Local DNS Attack Lab
+> 8 | Mar 10 | [DNS Attacks](../slides/18_DNS_Attacks.pdf) | CIS: Ch 18 | Local [DNS Attack](../labs/dns_attack.html) Lab
 > 8 | Mar 12 | Network Tools | | Network Foot Printing
 > | | | |
 > 9 | Mar 17 | Quiz 1 | |
