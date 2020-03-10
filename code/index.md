@@ -11,6 +11,7 @@ DNS
 - [cs335zone](dns\cs335_zone)
 - [191.168.0](dns\191.168.0)
 - [cs335.com.db](dns\cs335.com.db)
+- [dns_spoof.py](dns\dns_spoof.py)
 
 TCP
 ------------------------------------
