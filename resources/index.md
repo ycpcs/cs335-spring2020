@@ -42,6 +42,7 @@ Web Testing
 Vulnerability Exploitation
 ------------------------------------
 - [Metasploit](https://github.com/rapid7/metasploit-framework) is pretty much the only game in town when you need a generic vulnerability exploitation framework, at least if you don’t want to pay for one.
+- [Ettercap](https://www.ettercap-project.org/) is a comprehensive suite for man in the middle attacks.
 - [Scapy](https://scapy.net/) is a network packet generation and manipulation library for Python.
 - [sqlmap](http://sqlmap.org/) allows for easy discovery and exploitation of SQL injection vulnerabilities.
 - [nessus](https://www.tenable.com/products/nessus/nessus-essentials) is a proprietary vulnerability scanner developed by Tenable Network Security.
@@ -91,6 +92,7 @@ Supplemental Material
 Bounty Platform
 -----------------------------------
 - [HackerOne](https://www.hackerone.com/) is a vulnerability coordination and bug bounty platform that connects businesses with cybersecurity researchers.
+- [Bugcrowd](https://www.bugcrowd.com/) is a crowdsourced security platform; managing organizations bug bounty, vulnerability disclosure, and next-gen pen test programs.
 
 Penetration Testing Platforms
 -----------------------------------
@@ -98,6 +100,7 @@ Penetration Testing Platforms
 - [Vulnhub](https://www.vulnhub.com/)provide materials that allows anyone to gain practical 'hands-on' experience in digital security.
 - [Hack This Site](https://www.hackthissite.org/) is a legal free training ground for users to test and expand their hacking skills.
 - The [wargames](https://overthewire.org/wargames/) offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.
+- [We Chall](http://www.wechall.net) offers computer-related problems and links to other challenges. 
 
 Technical Documentation
 -----------------------------------
