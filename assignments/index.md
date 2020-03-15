@@ -9,6 +9,7 @@ This page links to homework and programming assignments.
 > Assignment | File | Due
 > ---------- | ---- | ---
 > [Ethics](ethics.html) Codes & Guidelines | n/a | Jan 28, 2020
+> [Quiz 1](quiz1.html) Quiz 1 | (Wireshark Capture)[files/ftp.pcapng] | March 22, 2020
 > [Final Project](project.html) Proposal | n/a | April 23, 2020
 > [Cyber Threat](cybercrime.html) Report | n/a | May 05, 2020
 > [Final Project](project.html) Code/Report | n/a | May 07, 2020
