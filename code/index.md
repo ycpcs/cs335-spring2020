@@ -8,9 +8,11 @@ This page contains links to useful code snippets.
 
 DNS
 ------------------------------------
-- [cs335zone](dns\cs335_zone)
-- [191.168.0](dns\191.168.0)
-- [cs335.com.db](dns\cs335.com.db)
+- Add to `/etc/bind/`
+  - [etc/bind/191.168.0](dns\191.168.0)
+  - [etc/bind/cs335.com.db](dns\cs335.com.db)
+- Append to `/etc/bind/named.conf`
+  - [cs335zone](dns\cs335_zone)
 - [dns_spoof.py](dns\dns_spoof.py)
 
 TCP
