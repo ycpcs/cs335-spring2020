@@ -100,7 +100,7 @@ Penetration Testing Platforms
 - [Vulnhub](https://www.vulnhub.com/)provide materials that allows anyone to gain practical 'hands-on' experience in digital security.
 - [Hack This Site](https://www.hackthissite.org/) is a legal free training ground for users to test and expand their hacking skills.
 - The [wargames](https://overthewire.org/wargames/) offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.
-- [We Chall](http://www.wechall.net) offers computer-related problems and links to other challenges. 
-
+- [We Chall](http://www.wechall.net) offers computer-related problems and links to other challenges.
+- [Google Gruyere](https://google-gruyere.appspot.com/) - Web Application Exploits and Defenses
 Technical Documentation
 -----------------------------------
