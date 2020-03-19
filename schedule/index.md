@@ -33,7 +33,7 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 8 | Mar 12 | DNS Security | CIS: Ch 18 |
 > | | | |
 > 9 | Mar 17 | [Quiz 1](../assignments/quiz1.md) | |
-> 9 | Mar 19 | Web Browser Security | |
+> 9 | Mar 19 | Arp Spoofing | |
 > | | | |
 > 10 | Mar 24 | Cross-Site Request Forgery | CIS: Ch 10 | Cross-Site Request Forgery Attack Lab
 > 10 | Mar 26 | | |
