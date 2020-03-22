@@ -4,10 +4,17 @@ course_number: CS335
 title: Code
 ---
 
-This page contains links to useful code snippets.
+This page contains links to useful code snippets we used in class.
 
-DNS
-------------------------------------
+#### ARP
+- Add firewall rule on the client
+  - sudo iptables -t nat -A OUTPUT -p tcp --dport 8000 -j DNAT --to-destination _attacker_ip_address_
+- Rules on the attacker
+  - sudo sysctl -w net.ipv4.ip_forward=1
+  - sudo iptables -t nat -A PREROUTING -p tcp --dport 8000 -j DNAT --to-destination _server_ip_address_
+  - sudo iptables -t nat -A POSTROUTING -j MASQUERADE
+
+#### DNS
 - Add to `/etc/bind/`
   - [etc/bind/191.168.0](dns\191.168.0)
   - [etc/bind/cs335.com.db](dns\cs335.com.db)
@@ -15,14 +22,12 @@ DNS
   - [cs335zone](dns\cs335_zone)
 - [dns_spoof.py](dns\dns_spoof.py)
 
-TCP
-------------------------------------
+#### TCP
 - Client: [tcp_client.c](tcp\tcp_client.c)
 - Server: [tcp_server.c](tcp\tcp_server.c) & [tcp_server_multi.c](tcp\tcp_server_multi.c)
 - Sent RST packet: [rst_packet.py](tcp\rst_packet.py)
 
-Packet Sniffing and Spoofing
-------------------------------------
+#### Packet Sniffing and Spoofing
 - Sniffing
   - Packet Sniffing using raw sockets: [sniff_raw.c](sniff\sniff_raw.c)
   - Packet Sniffing using pcap API: [sniff_pcap.c](sniff\sniff_pcap.c)
@@ -45,18 +50,15 @@ Packet Sniffing and Spoofing
   - Send created packet using raw sockets: [send_udp_packet.c](sniff\send_udp_packet.c)
   - Sniffing and the Spoofing ICMP using Scapy: [sniff_snoop_icmp.py](sniff\sniff_snoop_icmp.py)
 
-Buffer Overflow
-------------------------------------
+#### Buffer Overflow
 - Memory Layout: [mem_layout.cpp](buffer_overflow\mem_layout.cpp)
 
-Shell Shock
-------------------------------------
+#### Shell Shock
 - Attack on Set-UID: [vul.c](shell_shock\vul.c)
 - Vulnerable Bash program: [variables.c](shell_shock\variables.c)
 - Attack on CGI program: [test.cgi](shell_shock\test.cgi)
 
-Reverse Shell
-------------------------------------
+#### Reverse Shell
 - File Descriptors: [fd.c](reverse_shell\fd.c)
 - Redirection (demo): [red.c](reverse_shell\red.c)
 - Redirection (dup): [dup.c](reverse_shell\dup.c)

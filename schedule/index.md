@@ -29,13 +29,13 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 7 | Mar 03 | <b>NO CLASS - Winter Vacation</b> | |
 > 7 | Mar 05 | <b>NO CLASS - Winter Vacation</b> | |
 > | | | |
-> 8 | Mar 10 | [DNS Attacks](../slides/18_DNS_Attacks.pdf) | CIS: Ch 18 | Local [DNS Attack](../labs/dns_attack.html) Lab
+> 8 | Mar 10 | [DNS Attacks](../slides/18_DNS_Attacks.pdf) | CIS: Ch 18 | [Local DNS Attack Lab](../labs/dns_attack.html)
 > 8 | Mar 12 | DNS Security | CIS: Ch 18 |
 > | | | |
-> 9 | Mar 17 | [Quiz 1](../assignments/quiz1.md) | |
-> 9 | Mar 19 | [Arp Spoofing](../slides/ARP_Spoofing.pdf) | |
+> 9 | Mar 17 | [Quiz 1](../assignments/quiz1.html) | |
+> 9 | Mar 19 | [Arp Spoofing](../slides/ARP_Spoofing.pdf) Hands On | |
 > | | | |
-> 10 | Mar 24 | Cross-Site Request Forgery | CIS: Ch 10 | Cross-Site Request Forgery Attack Lab
+> 10 | Mar 24 | [Cross-Site Request Forgery](../slides/10_Web_CSRF.pdf) | CIS: Ch 10 | [CSRF Attack Lab](../labs/csrf_attack.html)
 > 10 | Mar 26 | | |
 > | | | |
 > 11 | Mar 31 | Cross-Site Scripting | CIS: Ch 11 | Cross-Site Scripting Attack Lab
