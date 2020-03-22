@@ -4,7 +4,7 @@ course_number: CS335
 title: Code
 ---
 
-This page contains links to useful code snippets we used in class.
+This page contains code snippets regularly used in class.
 
 #### ARP
 - Add firewall rule on the client
