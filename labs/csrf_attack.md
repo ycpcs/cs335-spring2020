@@ -14,10 +14,12 @@ Additional information on the SEED project [site](https://seedsecuritylabs.org/L
 
 - Make sure you answer the questions under Task 3
 - You must provide a screenshot of the network traffic with each attack.
-- *Extra Credit*:
+- *Extra Credit - no localhost*:
   - Server VM is hosting the web site
   - Attacker VM is hosting the malicious web site
-  - User and Attacker are both using the web site hosted on the server
+  - User and Attacker are both using:
+    - Web site hosted by the server
+    - Malicious web site hosted by the attacker
 
 ### References
 
