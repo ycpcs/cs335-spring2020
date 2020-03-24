@@ -7,7 +7,7 @@ title: Code
 This page contains code snippets regularly used in class.
 
 #### CSRF
-- [Template](csrf\post.html) for POST attack  
+- [Template](csrf\post.html) for POST attacks
 
 #### ARP
 - Add firewall rule on the client
