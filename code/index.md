@@ -6,6 +6,9 @@ title: Code
 
 This page contains code snippets regularly used in class.
 
+#### CSRF
+- [Template](csrf\post.html) for POST attack  
+
 #### ARP
 - Add firewall rule on the client
   - sudo iptables -t nat -A OUTPUT -p tcp --dport 8000 -j DNAT --to-destination _attacker_ip_address_
@@ -19,7 +22,7 @@ This page contains code snippets regularly used in class.
   - [etc/bind/191.168.0](dns\191.168.0)
   - [etc/bind/cs335.com.db](dns\cs335.com.db)
 - Append to `/etc/bind/named.conf`
-  - [cs335zone](dns\cs335_zone)
+  - [cs335zone](dns\cs335_zone.html)
 - [dns_spoof.py](dns\dns_spoof.py)
 
 #### TCP
