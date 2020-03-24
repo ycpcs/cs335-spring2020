@@ -14,11 +14,16 @@ Additional information on the SEED project [site](https://seedsecuritylabs.org/L
 
 - Make sure you answer the questions under Task 3
 - You must provide a screenshot of the network traffic with each attack.
+- *Extra Credit*:
+  - Server VM is hosting the web site
+  - Attacker VM is hosting the malicious web site
+  - User and Attacker are both using the web site hosted on the server
 
 ### References
 
 [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)  
-[HTTP Header Live](https://addons.mozilla.org/en-US/firefox/addon/http-header-live/) Displays the HTTP header. Edit it and send it.
+[HTTP Header Live](https://addons.mozilla.org/en-US/firefox/addon/http-header-live/) Displays the HTTP header. Edit it and send it.  
+The HTML &lt;form&gt; Element [Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
 
 ### Grading
 
