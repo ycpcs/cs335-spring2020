@@ -38,7 +38,7 @@ Network Connectivity
 Web Testing
 ------------------------------------
 - [Burp or Burp Suite](https://portswigger.net/burp) is the gold standard of commercial web application–testing tools.
-- OWASP Zed Attack Proxy [ZAP](https://www.zaproxy.org/) 
+- OWASP Zed Attack Proxy [ZAP](https://www.zaproxy.org/)
 
 Vulnerability Exploitation
 ------------------------------------
@@ -103,5 +103,6 @@ Penetration Testing Platforms
 - The [wargames](https://overthewire.org/wargames/) offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.
 - [We Chall](http://www.wechall.net) offers computer-related problems and links to other challenges.
 - [Google Gruyere](https://google-gruyere.appspot.com/) - Web Application Exploits and Defenses
+
 Technical Documentation
 -----------------------------------
