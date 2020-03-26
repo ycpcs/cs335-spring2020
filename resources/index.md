@@ -38,7 +38,8 @@ Network Connectivity
 Web Testing
 ------------------------------------
 - [Burp or Burp Suite](https://portswigger.net/burp) is the gold standard of commercial web application–testing tools.
-- OWASP Zed Attack Proxy [ZAP](https://www.zaproxy.org/)
+- OWASP Zed Attack Proxy [ZAP](https://www.zaproxy.org/).
+- [w3af](http://w3af.org/) is a Web Application Attack and Audit Framework.
 
 Vulnerability Exploitation
 ------------------------------------

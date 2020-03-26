@@ -36,7 +36,7 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 9 | Mar 19 | [Arp Spoofing](../slides/ARP_Spoofing.pdf) Hands On | |
 > | | | |
 > 10 | Mar 24 | [Cross-Site Request Forgery](../slides/10_Web_CSRF.pdf) | CIS: Ch 10 | [CSRF Attack Lab](../labs/csrf_attack.html)
-> 10 | Mar 26 | | |
+> 10 | Mar 26 | Cross-Site Request Forgery | [CSRF Exploitation and Prevention](papers/csrf.pdf) |
 > | | | |
 > 11 | Mar 31 | Cross-Site Scripting | CIS: Ch 11 | Cross-Site Scripting Attack Lab
 > 11 | Apr 02 | | |
