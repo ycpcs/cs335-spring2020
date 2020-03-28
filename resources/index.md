@@ -32,6 +32,7 @@ Network Connectivity
 ------------------------------------
 - The [Hping](http://www.hping.org/) tool is similar to the traditional ping utility, but it supports more than just ICMP echo requests.
 - [Netcat](http://netcat.sourceforge.net/) is a command line tool that connects to an arbitrary TCP or UDP port and allows you to send and receive data.
+  - Netcat cheat sheet [pocket reference guide](docs/netcat_cheat_sheet_v1.pdf)
 - If you need to scan the open network interface on a remote system, nothing is better than [Nmap](https://nmap.org/).
 - _netdiscover_ is a network address discovering tool, install by using `sudo apt-get install netdiscover`.
 
