@@ -100,7 +100,7 @@ Bounty Platform
 Penetration Testing Platforms
 -----------------------------------
 - [Hack The Box](https://www.hackthebox.eu/) is an online platform to test and advance your skills in penetration testing and cyber security.
-- [Vulnhub](https://www.vulnhub.com/)provide materials that allows anyone to gain practical 'hands-on' experience in digital security.
+- [Vulnhub](https://www.vulnhub.com/) provides materials that allows anyone to gain practical 'hands-on' experience in digital security.
 - [Hack This Site](https://www.hackthissite.org/) is a legal free training ground for users to test and expand their hacking skills.
 - The [wargames](https://overthewire.org/wargames/) offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.
 - [We Chall](http://www.wechall.net) offers computer-related problems and links to other challenges.
