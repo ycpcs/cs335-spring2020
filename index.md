@@ -19,7 +19,8 @@ This is the website for CS 335, Cybersecurity, at York College. All information 
 
 
 ## News
-* **Apr 23** &mdash; Project Proposal Due
+* **May 05** &mdash; [Cyber Threat](assignments/cybercrime.html) Report Due
+* **Apr 23** &mdash; [Project](assignments/project.html) Proposal Due
 * **Apr 12** &mdash; [Cross-Site Scripting Attack](labs/xss_attack.html) Lab Due
 * **Mar 31** &mdash; [Cross-Site Request Forgery Attack](labs/csrf_attack.html) Lab Due
 * **Mar 20** &mdash; [Attacks on Local DNS](labs/dns_attack.html) Lab Due
