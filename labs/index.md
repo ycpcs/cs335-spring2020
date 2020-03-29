@@ -15,3 +15,4 @@ This page links to lab assignments.
 > TCP Attack | [Description and Tasks](tcp_attack.html) | Mar 15
 > Local DNS Attack | [Description and Tasks](dns_attack.html) | Mar 20
 > Cross-Site Request Forgery Attack | [Description and Tasks](csrf_attack.html) | Mar 31
+> Cross-Site Scripting (XSS) Attack | [Description and Tasks](xss_attack.html) | Apr 12
