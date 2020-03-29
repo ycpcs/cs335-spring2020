@@ -4,7 +4,7 @@ course_number: CS335
 title: Lab - Cross-Site Request Forgery Attack
 ---
 
-# Lab - Cross-Site Request Forgery Attack Lab
+# Lab - Cross-Site Request Forgery (CSRF) Attack Lab
 
 ### Lab Description and Tasks
 

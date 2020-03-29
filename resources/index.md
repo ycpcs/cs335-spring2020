@@ -87,10 +87,16 @@ Forensics
 
 Supplemental Material
 ------------------------------------
--  [High Performance Browser Networking](https://hpbn.co/): What every web developer should know about networking and web performance.
+-  [High Performance Browser Networking](https://hpbn.co/) is what every web developer should know about networking and web performance.
+-  [Eloquent JavaScript](https://eloquentjavascript.net/) is a book about JavaScript, programming, and the wonders of the digital.
+
+Security Threats
+------------------------------------
 -  The [OWASP Top Ten Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project) is a powerful awareness document for web application security.
 -  The [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) was created to provide a concise collection of high value information on specific application security topics.
 - [CWE™](https://cwe.mitre.org/compatible/product.html) is a community-developed list of common software security weaknesses.
+- [Web Security Threat Classiﬁcation](http://www.webappsec.org/projects/threat/).
+- [The CAPTCHA Project](http://www.captcha.net/) Telling Humans and Computers Apart.
 
 Bounty Platform
 -----------------------------------

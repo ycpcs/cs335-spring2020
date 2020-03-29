@@ -6,6 +6,10 @@ title: Code
 
 This page contains code snippets regularly used in class.
 
+#### XSS
+- [Add a friend](xss\add_friend.md)
+- [Update Profile](xss\edit_profile.md)
+
 #### CSRF
 - [Template](csrf\post.html) for POST attacks
 
