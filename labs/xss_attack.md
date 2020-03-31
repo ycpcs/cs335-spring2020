@@ -33,6 +33,7 @@ Additional information on the SEED project [site](https://seedsecuritylabs.org/L
 - The HTML &lt;form&gt; Element [Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
 - [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
 - [Using XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest)
+- [Element.innerHTML](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML) gets or sets the HTML markup contained within the element.
 
 ### Grading
 

