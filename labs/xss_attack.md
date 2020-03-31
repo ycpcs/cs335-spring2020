@@ -22,6 +22,7 @@ Additional information on the SEED project [site](https://seedsecuritylabs.org/L
 
 ### History of Samy's worm
 - [The MySpace Worm that Changed the Internet Forever](https://www.vice.com/en_us/article/wnjwb4/the-myspace-worm-that-changed-the-internet-forever)
+- [https://samy.pl/myspace/](https://samy.pl/myspace/)
 - [Technical explanation of The MySpace Worm](https://samy.pl/myspace/tech.html)
 - [Cross-Site Scripting Worm Hits MySpace](https://betanews.com/2005/10/13/cross-site-scripting-worm-hits-myspace/)
 - [Cross-Site Scripting Worm Floods MySpace](https://it.slashdot.org/story/05/10/14/126233/cross-site-scripting-worm-floods-myspace)
