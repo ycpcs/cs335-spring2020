@@ -25,6 +25,7 @@ Additional information on the SEED project [site](https://seedsecuritylabs.org/L
 - [Technical explanation of The MySpace Worm](https://samy.pl/myspace/tech.html)
 - [Cross-Site Scripting Worm Hits MySpace](https://betanews.com/2005/10/13/cross-site-scripting-worm-hits-myspace/)
 - [Cross-Site Scripting Worm Floods MySpace](https://it.slashdot.org/story/05/10/14/126233/cross-site-scripting-worm-floods-myspace)
+- Video: [MySpace Worm Animated Story](https://www.youtube.com/watch?v=DtnuaHl378M)
 
 ### References
 
