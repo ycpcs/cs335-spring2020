@@ -9,6 +9,9 @@ This page contains code snippets regularly used in class.
 #### XSS
 - [Add a friend](xss\add_friend.html)
 - [Update Profile](xss\edit_profile.html)
+- Content Security Policy Experiment
+  - [http_server.html](csp\http_server.md)
+  - [index.html](csp\index.md)
 
 #### CSRF
 - [Template](csrf\post.html) for POST attacks
