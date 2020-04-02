@@ -1,3 +1,11 @@
+---
+layout: default
+course_number: CS335
+title: Code - Edit Profile template 
+---
+
+Edit profile template  
+
 ```html
 <html>
   <body>
