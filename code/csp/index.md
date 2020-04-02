@@ -1,3 +1,11 @@
+---
+layout: default
+course_number: CS335
+title: Code - Content Security Policy
+---
+
+Index Page
+
 ```html
 <html>
   <h2 >CSP Test</h2>
@@ -21,8 +29,8 @@
   </script>
 
   <script src="script1.js"> </script>
-  <script src="http://www.example68.com:8000/script2.js"> </script>
-  <script src="http://www.example79.com:8000/script3.js"> </script>
+  <script src="http://www.example68.com:8090/script2.js"> </script>
+  <script src="http://www.example79.com:8090/script3.js"> </script>
 
   <button onclick="alert('hello')">
     Click me

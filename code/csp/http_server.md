@@ -1,10 +1,10 @@
 ---
 layout: default
 course_number: CS335
-title: Code - Content Security Policy 
+title: Code - Content Security Policy
 ---
 
-Edit profile template  
+Http Server
 
 ```python
 #!/usr/bin/env python3
