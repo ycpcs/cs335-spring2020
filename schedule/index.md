@@ -39,7 +39,7 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 10 | Mar 26 | Cross-Site Request Forgery | [CSRF Exploitation and Prevention](papers/csrf.pdf) |
 > | | | |
 > 11 | Mar 31 | [Cross-Site Scripting](../slides/11_Web_XSS.pdf) | CIS: Ch 11 | [XSS Attack Lab](../labs/xss_attack.html)
-> 11 | Apr 02 | | |
+> 11 | Apr 02 | Cross-Site Scripting cont. | CIS: Ch 11 |
 > | | | |
 > 12 | Apr 07 | SQL Injection | CIS: Ch 12 | SQL Injection Attack Lab
 > 12 | Apr 09 | <b>NO CLASS - Spring Vacation</b>| |
