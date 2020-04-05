@@ -6,6 +6,9 @@ title: Code
 
 This page contains code snippets regularly used in class.
 
+#### SQL
+- [Insert Employees](sql\insert_script.html)
+
 #### XSS
 - [Add a friend](xss\add_friend.html)
 - [Update Profile](xss\edit_profile.html)
