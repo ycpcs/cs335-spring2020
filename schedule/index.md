@@ -45,13 +45,13 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 12 | Apr 09 | <b>NO CLASS - Spring Vacation</b>| |
 > | | | |
 > 13 | Apr 14 | Open-Source Intelligence | | Password Cracking
-> 13 | Apr 16 | | |
+> 13 | Apr 16 | Cyber Threat Presentations | |
 > | | | |
 > 14 | Apr 21 | Public-Key Infrastructure (PKI) | CIS: Ch 24 | Public-Key Infrastructure Lab
 > 14 | Apr 23 | Cyber Threat Presentations | |
 > | | | |
 > 15 | Apr 28 | Quiz 2 | |
-> 15 | Apr 30 | Cyber Threat Presentations | |
+> 15 | Apr 30 | Cyber Threat Presentations & Project Demo | |
 > | | | |
 > 16 | May 05 | Guest Speaker | |
 > 16 | May 07 | Course Wrap Up | Project Demo |
