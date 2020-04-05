@@ -18,7 +18,6 @@ Scapy and pcap API references can be found in the [Resources](../resources/index
 
 See [code snippets](../code/index.html) used in lecture.
 
-
 ### Grading
 
 Post your report in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due date in the syllabus. Your grade for this lab will be composed of:

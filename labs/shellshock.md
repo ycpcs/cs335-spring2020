@@ -18,7 +18,6 @@ In class we demonstrated a simple method of using Shellshock to cause a Denial o
 
 _Without clicking on any links_ and using your favorite search engine, how useful to attackers are the results from searching the term: ```filetype:cgi inurl:cgi-bin```?  
 
-
 ### Grading
 
 Post your report in [Marmoset](https://cs.ycp.edu/marmoset) by the scheduled due date in the syllabus. Your grade for this lab will be composed of:
