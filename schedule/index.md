@@ -51,7 +51,7 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 14 | Apr 23 | Cyber Threat Presentations | |
 > | | | |
 > 15 | Apr 28 | Quiz 2 | |
-> 15 | Apr 30 | Cyber Threat Presentations & Project Demo | |
+> 15 | Apr 30 | Cyber Threat Presentations & Project Demo | _Thomas_, _Tim_ |
 > | | | |
 > 16 | May 05 | Guest Speaker | |
 > 16 | May 07 | Course Wrap Up | Project Demo |
