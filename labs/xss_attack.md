@@ -13,12 +13,8 @@ title: Lab - Cross-Site Scripting Attack
 Additional information on the SEED project [site](https://seedsecuritylabs.org/Labs_16.04/Web/Web_XSS_Elgg/).
 
 - You must provide a screenshot of the network traffic with each attack.
-- *Extra Credit - no use of localhost*:
-  - Server VM is hosting the web site
-  - Attacker VM is hosting the malicious web site
-  - User and Attacker are both using:
-    - Web site hosted by the server
-    - Malicious web site hosted by the attacker
+- *Extra Credit - use a secondary server*:
+  - Attacker VM is hosting the malicious script. Feel free to use the CSRF Attacker site to host it.
 
 ### History of Samy's worm
 - [The MySpace Worm that Changed the Internet Forever](https://www.vice.com/en_us/article/wnjwb4/the-myspace-worm-that-changed-the-internet-forever)
