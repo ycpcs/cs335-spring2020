@@ -88,9 +88,9 @@ Forensics
 
 Open-Source Intelligence
 ------------------------------------
-- [OSINT Framework](https://osintframework.com/)
+- [OSINT Framework](https://osintframework.com/) provides holistic look at resources and techniques.
 - [https://osintcurio.us/](https://osintcurio.us/)
-
+- [OSINT framework](https://start.me/p/ZME8nR/osint) by Bruno Mortier.
 
 Supplemental Material
 ------------------------------------
