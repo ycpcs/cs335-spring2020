@@ -86,6 +86,12 @@ Forensics
 - [sleuthkit.org](https://www.sleuthkit.org/) is the official website for The Sleuth Kit®, Autopsy®, and other open source digital investigation tools.  
 - The Cyber Swiss Army Knife [CyberChef](https://gchq.github.io/CyberChef) - a web app for encryption, encoding, compression and data analysis.
 
+Open-Source Intelligence
+------------------------------------
+- [OSINT Framework](https://osintframework.com/)
+- [https://osintcurio.us/](https://osintcurio.us/)
+
+
 Supplemental Material
 ------------------------------------
 -  [High Performance Browser Networking](https://hpbn.co/) is what every web developer should know about networking and web performance.
@@ -98,6 +104,7 @@ Security Threats
 - [CWE™](https://cwe.mitre.org/compatible/product.html) is a community-developed list of common software security weaknesses.
 - [Web Security Threat Classiﬁcation](http://www.webappsec.org/projects/threat/).
 - [The CAPTCHA Project](http://www.captcha.net/) Telling Humans and Computers Apart.
+- [CVE Details](https://www.cvedetails.com/) the ultimate security vulnerability datasource.
 
 Bounty Platform
 -----------------------------------
