@@ -12,9 +12,7 @@ This page contains code snippets regularly used in class.
   - ```cd ./JohnTheRipper/src```
   - ```sudo apt-get update```
   - ```sudo apt-get install libssl-dev```
-  - ```./configure && make```
-  - ```cd ..```
-  - ```cd ./run```
+  - ``` make -s clean && make -sj4```
 
 - We can also download the binaries as zip:
   - ```wget https://github.com/magnumripper/JohnTheRipper/archive/bleeding-jumbo.zip```
@@ -23,7 +21,7 @@ This page contains code snippets regularly used in class.
   - ```./configure && make```
   - ``` make -s clean && make -sj4```
 
-- We can also download the binaries as tar:  
+- We can also download the binaries as tar:
   - ```sudo apt-get install libssl-dev```
   - ```wget https://www.openwall.com/john/k/john-1.9.0-jumbo-1.tar.xz```
   - ```tar -xvf ./john-1.9.0-jumbo-1.tar.xz```
@@ -35,6 +33,14 @@ This page contains code snippets regularly used in class.
 
 - Install using [snapd](https://snapcraft.io/) (not recommended):
   - ```sudo snap install john-the-ripper```
+
+- Install THC-Hydra
+  - ```wget https://github.com/vanhauser-thc/thc-hydra/archive/v9.0.tar.gz```
+  - ```tar -xvf v9.0.tar.gz```
+  - ```cd thc-hydra-9.0```
+  - ```./configure```
+  - ```make```
+  - ```sudo make install```
 
 - Crack me
   - [joke.docx](pass\joke.docx)
