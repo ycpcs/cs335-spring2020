@@ -16,14 +16,24 @@ This page contains code snippets regularly used in class.
   - ```cd ..```
   - ```cd ./run```
 
-- We can also download the binaries:
+- We can also download the binaries as zip:
   - ```wget https://github.com/magnumripper/JohnTheRipper/archive/bleeding-jumbo.zip```
   - ```unzip bleeding-jumbo.zip```
+  - ```cd JohnTheRipper-bleeding-jumbo/src```
+  - ```./configure && make```
+  - ``` make -s clean && make -sj4```
 
-- Install it using the app store:
+- We can also download the binaries as tar:  
+  - ```sudo apt-get install libssl-dev```
+  - ```wget https://www.openwall.com/john/k/john-1.9.0-jumbo-1.tar.xz```
+  - ```tar -xvf ./john-1.9.0-jumbo-1.tar.xz```
+  - ```cd john-1.8.0-jumbo-1/src```
+  - ``` make -s clean && make -sj4```
+
+- Install it using the app store (not recommended):
   - ```sudo apt install john```
 
-- Install using [snapd](https://snapcraft.io/):
+- Install using [snapd](https://snapcraft.io/) (not recommended):
   - ```sudo snap install john-the-ripper```
 
 - Crack me
