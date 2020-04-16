@@ -6,6 +6,30 @@ title: Code
 
 This page contains code snippets regularly used in class.
 
+#### Password
+ - Built _John The Ripper_ from source:
+  - ```git clone https://github.com/magnumripper/JohnTheRipper.git```
+  - ```cd ./JohnTheRipper/src```
+  - ```sudo apt-get update```
+  - ```sudo apt-get install libssl-dev```
+  - ```./configure && make```
+  - ```cd ..```
+  - ```cd ./run```
+
+- We can also download the binaries:
+  - ```wget https://github.com/magnumripper/JohnTheRipper/archive/bleeding-jumbo.zip```
+  - ```unzip bleeding-jumbo.zip```
+
+- Install it using the app store:
+  - ```sudo apt install john```
+
+- Install using [snapd](https://snapcraft.io/):
+  - ```sudo snap install john-the-ripper```
+
+- Crack me
+  - [joke.docx](pass\joke.docx)
+  - [joke.pdf](pass\joke.pdf)
+
 #### SQL
 - [Insert Employees](sql\insert_script.html)
 
