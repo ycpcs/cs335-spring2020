@@ -62,10 +62,11 @@ Password Crackers
 - [Hash Suite](https://hashsuite.openwall.net/) is a Windows program to test security of password hashes.
 - [John the Ripper](https://www.openwall.com/john/) is a fast Open Source password cracker.
   - The official [repo](https://github.com/magnumripper/JohnTheRipper/).
-  - The [password hash file](http://contest-2012.korelogic.com/) bundle from the KoreLogic 2012 DEFCON challenge.
+  - The [password hash file](http://contest-2012.korelogic.com/) bundle from the KoreLogic 2012 DEFCON challenge. Decompress with ```bzip2 -dk cmiyc_2012_password_hash_files.tar.bz2```
   - A large word list containing 1,493,677,782 words can be found at [crackstation](https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm).
 - [RainbowCrack](http://project-rainbowcrack.com/index.htm) crack hashes with rainbow tables.
 - [Ophcrack](https://ophcrack.sourceforge.io/) is a free Windows password cracker based on rainbow tables.
+- [THC-Hydra](https://github.com/vanhauser-thc/thc-hydra) is one of the most widely used _online_ hacking tool.
 
 Steganography
 ------------------------------------
