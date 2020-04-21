@@ -47,7 +47,7 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 13 | Apr 14 | Open-Source Intelligence | |
 > 13 | Apr 16 | Password Cracking - Hands On | |
 > | | | |
-> 14 | Apr 21 | [Public-Key Infrastructure (PKI)](..slides/24_PKI.pdf) | CIS: Ch 24 | _Lucas_, Public-Key Infrastructure Lab
+> 14 | Apr 21 | [Public-Key Infrastructure (PKI)](../slides/24_PKI.pdf) | CIS: Ch 24 | _Lucas_, Public-Key Infrastructure Lab
 > 14 | Apr 23 | Cyber Threat Presentations | |
 > | | | |
 > 15 | Apr 28 | Quiz 2 | |
