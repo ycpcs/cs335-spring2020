@@ -48,7 +48,7 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 13 | Apr 16 | Password Cracking - Hands On | |
 > | | | |
 > 14 | Apr 21 |  _Lucas_, [Public-Key Infrastructure (PKI)](../slides/24_PKI.pdf) | CIS: Ch 24 |
-> 14 | Apr 23 | PKI | | [Public-Key Infrastructure (PKI) Lab](../labs/pki.html)
+> 14 | Apr 23 | _Nolan_, PKI | | [Public-Key Infrastructure (PKI) Lab](../labs/pki.html)
 > | | | |
 > 15 | Apr 28 | Quiz 2 | |
 > 15 | Apr 30 | _Thomas_, _Tim_, _Anthony_ | |
