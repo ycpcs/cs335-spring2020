@@ -17,3 +17,7 @@ This page links to lab assignments.
 > Cross-Site Request Forgery (CSRF) Attack | [Description and Tasks](csrf_attack.html) | Mar 31
 > Cross-Site Scripting (XSS) Attack | [Description and Tasks](xss_attack.html) | Apr 12
 > SQL Injection Attack | [Description and Tasks](sql_attack.html) | Apr 21
+> Public-Key Infrastructure (PKI) Lab * | [Description and Tasks](pki.html) | May 05
+
+
+<sup>*</sup> Optional Lab 
