@@ -10,13 +10,13 @@ title: "Quiz 2 - Cybersecurity"
 #### Web Security
 - (10 pts) I have the following page. If a request is sent from inside the iframe, is it considered as a cross-site request or not? If not, how can be this secured?
 ```html
-&lt;html&gt;
-   &lt;body&gt;
-      &lt;h2&gt;My Example Page&lt;/h2&gt;
-      &lt;p&gt;You can totally use this my.ycp frame.&lt;/p&gt;
-      &lt;iframe src="https://my.ycp.edu" height="600" width="600"&gt;&lt;/iframe&gt;
-   &lt;/body&gt;
-&lt;/html&gt;
+<html>
+   <body>
+      <h2>My Example Page</h2>
+      <p>You can totally use this my.ycp frame.</p>
+      <iframe src="https://my.ycp.edu" height="600" width="600"></iframe>
+   </body>
+</html>
 ```
 
 - (5 pts) List the differences between XSS and CSRF attacks?
