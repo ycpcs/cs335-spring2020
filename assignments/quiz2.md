@@ -9,6 +9,7 @@ title: "Quiz 2 - Cybersecurity"
 
 #### Web Security
 - (10 pts) I have the following page. If a request is sent from inside the iframe, is it considered as a cross-site request or not? If not, how can be this secured?
+
 ```html
 <html>
    <body>
