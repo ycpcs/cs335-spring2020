@@ -25,12 +25,14 @@ title: "Quiz 2 - Cybersecurity"
 - (10 pts) The fundamental cause of Cross-Site Scripting (XSS) vulnerabilities is that HTML allows JavaScript code to be mixed with data. From Cybersecurity security perspective - mixing user data with code is very dangerous. XSS is such an example. Provide two other examples that can be used to demonstrate that mixing code with data is bad for security.
 
 - (10 pts) I updated the Elgg web site to use the following SQL statement (note the _WHERE_ clause is on a new line). Is this sufficient to prevent SQL Injection attacks? If not, can you come up with SQL statement to exploit this vulnerability.
+
 ```sql
 SELECT * FROM employee
 WHERE eid= ’$eid’ AND password=’$password’
 ```
 
 - (10 pts) Update the following command to use prepared statement.
+
 ```sql
 UPDATE employee SET password=’$newpwd’ WHERE eid =’$eid’ and password=’$oldpwd’;
 ```
