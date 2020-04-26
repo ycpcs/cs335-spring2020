@@ -13,6 +13,7 @@ This page contains code snippets regularly used in class.
   - ```cd ./JohnTheRipper/src```
   - ```sudo apt-get update```
   - ```sudo apt-get install libssl-dev```
+  - ```./configure```
   - ``` make -s clean && make -sj4```
 
 - We can also download the binaries as zip:
@@ -27,6 +28,7 @@ This page contains code snippets regularly used in class.
   - ```wget https://www.openwall.com/john/k/john-1.9.0-jumbo-1.tar.xz```
   - ```tar -xvf ./john-1.9.0-jumbo-1.tar.xz```
   - ```cd john-1.8.0-jumbo-1/src```
+  - ```./configure```
   - ``` make -s clean && make -sj4```
 
 - Install it using the app store (not recommended):
