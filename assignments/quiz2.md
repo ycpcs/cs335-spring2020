@@ -50,6 +50,6 @@ UPDATE employee SET password=’$newpwd’ WHERE eid =’$eid’ and password=�
   - (2 pts) Any Lessons learned.
 
 
-- (10 pts) Can you tell me the joke hidden in [escpe.pdf](files/escpe.pdf).
+- (10 pts) Can you tell me the joke hidden in [escape.pdf](files/escape.pdf).
 
 - (10 pts) What am I trying to tell you [kec.jpg](files/kec.jpg). If you get stuck, try using [strings](https://linux.die.net/man/1/strings)
