@@ -28,7 +28,8 @@ title: "Quiz 2 - Cybersecurity"
 
 ```sql
 SELECT * FROM employee
-WHERE eid= ’$eid’ AND password=’$password’
+WHERE eid= ’$eid’ AND
+      password=’$password’
 ```
 
 - (10 pts) Update the following command to use prepared statement.
